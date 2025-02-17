@@ -1,4 +1,9 @@
+Name : Misganaw Mekashaw 
+Email : misganawcbcd21@gmail.com
+website : https://misganaw-cbcd-community-ethiopia.onrender.com
+
 <<<<<<< HEAD
+For ease of use we organized the tasks into four file 
 # Metta_Training_Tasks_2
 This repository contains implementations of various list and expression operations in MeTTa, a pattern-matching language designed for symbolic AI and knowledge representation. The repository is structured into different files to organize functionalities such as list manipulations, expression reconstructions, and pattern matching.
 =======
