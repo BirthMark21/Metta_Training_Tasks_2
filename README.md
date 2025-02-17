@@ -41,4 +41,4 @@ To run the tasks in Metta, execute the respective files in your Metta environmen
 (load "metta_training_tasks/expression_operations.metta")
 (load "metta_training_tasks/reconstruction_ Indexing_and_Slicing.metta")
 (load "metta_training_tasks/bonus_node.metta")
->>>>>>> f879baa (Initial commit - Added Metta training tasks)
+>>>>>>>
